@@ -1,0 +1,9 @@
+sk:
+  SilverStripe\SpellCheck\Handling\SpellController:
+    InvalidLocale: 'Nepodporované lokálne prostredie'
+    InvalidRequest: 'Neplatná požiadavka'
+    MissingData: 'Nepodarilo sa získať nespracované údaje'
+    MissingProviders: 'Nie je nainštalovaný žiadny modul kontroly pravopisu'
+    SecurityDenied: 'Prístup zamietnutý'
+    SecurityMissing: 'Platnosť vašej relácie vypršala. Ak chcete pokračovať, obnovte stránku.'
+    UnsupportedMethod: 'Nepodporovaná metóda ''{method}'''
